@@ -1,0 +1,25 @@
+marker-color,marker-size,marker-symbol,Infra,SR,County,Accuracy,RTOP_Zone,Street_Name,Nearest_Location,,lat,lon,Image,Link
+#ff0000,medium,p,PHB,155,DeKalb,100%,5,Flat Shoals,Rainbow Dr. (N) & Flat Shoals Rd. (S) ,,33.70834303,-84.27214131,,https://goo.gl/maps/oYGoAYJyijA2
+#ff0000,medium,p,PHB,155,DeKalb,100%,5,Candler_0,Melville Ave. (N) & McAfee Rd. (S),,33.73278856,-84.28403154,,https://goo.gl/maps/NHrT5kJsdgk
+#ff0000,medium,p,PHB,155,DeKalb,100%,5,Candler_1,Memorial Dr. SE (N) & Alston Dr. SE (S),,33.74571377,-84.29143813,,https://goo.gl/maps/FG1KTY8EZCy
+#ff0000,medium,p,PHB,23,DeKalb,50%,5,Clairmont,Clairmont Run (N) & Maediris Dr. (S),,33.78725032,-84.30662982,,https://goo.gl/maps/e9X1iqGFcmo
+#ff0000,medium,p,PHB,78,Fulton,50%,7,North Ave. ,Marietta St. NW (W) & Techwood Dr. (E)  ,,33.771331,-84.393426,,https://goo.gl/maps/YAbq29CJxJG2
+#ff0000,medium,p,PHB,78,Fulton,50%,5,Ponce De Leon Ave.,Somerset Terrace NE (W) & Bonaventure Ave. NE (E),,33.77381886,-84.36210997,,https://goo.gl/maps/2FbSpyK6mrS2
+#ff0000,medium,p,PHB,120,Cobb,100%,2,S. Marietta Pkwy SE,Fairground St. (W) & Aviation Rd. SE (E) ,,33.94291269,-84.53282923,,https://goo.gl/maps/r2XCbYy7SCQ2
+#ff0000,medium,p,PHB,280,Cobb,50%,2,S. Cobb Pkwy,Plaza Dr. (N) & Pinehill Dr. (s),,33.88215569,-84.5338726,,https://goo.gl/maps/DwJuHtndJSP2
+#ff0000,medium,p,PHB,13,DeKalb,100%,1,Buford Hwy,Briarwood Rd. (N) & N. Cliff Valley Way (S) ,,33.8429963,-84.32867087,,https://goo.gl/maps/8HqqDYaRFe82
+#ff0000,medium,p,PHB,13,DeKalb,100%,1,Buford Hwy,Lenox Overlook Rd. (N) & Briarwood Rd. (S) ,,33.84571301,-84.32564534,,https://goo.gl/maps/XHGBUg4MmRB2
+#ff0000,medium,r,RRFB,,Fulton,100%,,Decatur St. SE,Hilliard St. SE (W) & William Holmes Borders Senior Dr. SE (E) ,,33.75039641,-84.37537014,,https://goo.gl/maps/j6ZeVjfsKWQ2
+#ff0000,medium,r,RRFB,,Fulton,100%,,White St. SE,Cascade Ave. SW (N) & Hopkins St. SW,,33.73810286,-84.43123788,,https://goo.gl/maps/emwTWLaPXNp
+#ff0000,medium,r,RRFB,140,Fulton,50%,,Houze Rd. Roundabout,@ Hembree Rd.,,34.06120363,-84.34644856,,https://goo.gl/maps/guvv8dBvHF32
+#ff0000,medium,r,RRFB,,Gwinnett,25%,,Winters Chapel Rd.,Peeler Rd. (N) & Peachtree Industrial (s),,33.94190136,-84.27106038,,https://goo.gl/maps/1XaBHZVa2FL2
+#ff0000,medium,r,RRFB,,Fulton,100%,,Peachtree Rd. ,@ Malone Dr. ,,33.88814428,-84.30670559,,https://goo.gl/maps/1yKp2H3rmfC2
+#ff0000,medium,r,RRFB,,Fulton,100%,,Peachtree Rd. ,Miller Dr. (W) & Pierce Dr. (E) ,,33.88938558,-84.30423461,,https://goo.gl/maps/grmmF79Mc4Q2
+#ff0000,medium,r,RRFB,,Gwinnett,25%,,Norcross Tucker Rd. ,Near Sparrows Ln NW.,,33.89798184,-84.20843214,,https://goo.gl/maps/w2LRk7HnP3x
+#ff0000,medium,r,RRFB,,Fulton,90%,,10th St.,West Peachtree,,33.78147509,-84.38641213,,https://goo.gl/maps/Z1nKSSm8vaL2
+#ff0000,medium,t,Traffic Signal,140,Gwinnett,100%,6,Jimmy Carter Blvd.,Dawson Rd./Live Oak ,,33.90735412,-84.20615762,,https://goo.gl/maps/xNWxBuAyeKv
+#ff0000,medium,t,Traffic Signal,140,Gwinnett,100%,6,Jimmy Carter Blvd.,Hayes Dr.,,33.90460265,-84.20577675,,https://goo.gl/maps/8XybwEgCAWu
+#ff0000,medium,t,Traffic Signal,140,Gwinnett,100%,6,Jimmy Carter Blvd.,Norcross Tucker Rd./Singleton Rd.,,33.90212491,-84.20534492,,https://goo.gl/maps/uB76siu3MJz
+#ff0000,medium,t,Traffic Signal,41/19,Fulton,100%,4,Northside Dr.,Mitchell,,33.75464309,-84.40282054,,https://goo.gl/maps/SB9AKJcAMJt
+#ff0000,medium,p,PHB,,Fulton,100%,,10th St.,Argonne Ave. NE & Taft Ave.,,33.78179472,-84.37648594,,https://goo.gl/maps/HjFYeZZJpTT2
+#ff0000,medium,p,PHB,,Fulton,100%,,Decatur St.,Collins St. & Piedmont Ave.,,33.75172111,-84.38577175,,https://goo.gl/maps/oUqFcD3evxD2
