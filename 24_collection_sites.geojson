@@ -1,1 +1,557 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":155,"County":"DeKalb","Accuracy":"100%","RTOP_Zone":5,"Street_Name":"Flat Shoals","Nearest_Location":"Rainbow Dr. (N) & Flat Shoals Rd. (S) "},"geometry":{"type":"Point","coordinates":[-84.27214130759239,33.70834303117229]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","SR":155,"Infra":"PHB","County":"DeKalb","Accuracy":"100%","RTOP_Zone":5,"Street_Name":"Candler_0","Nearest_Location":"Melville Ave. (N) & McAfee Rd. (S)"},"geometry":{"type":"Point","coordinates":[-84.28403154015541,33.73278856161008]}},{"type":"Feature","properties":{"County":"DeKalb","marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":155,"Accuracy":"100%","RTOP_Zone":5,"Street_Name":"Candler_1","Nearest_Location":"Memorial Dr. SE (N) & Alston Dr. SE (S)"},"geometry":{"type":"Point","coordinates":[-84.29143812507391,33.745713768360645]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":23,"County":"DeKalb","Accuracy":"50%","RTOP_Zone":5,"Street_Name":"Clairmont","Nearest_Location":"Clairmont Run (N) & Maediris Dr. (S)"},"geometry":{"type":"Point","coordinates":[-84.30662982165813,33.78725032116236]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","County":"Fulton","Infra":"PHB","SR":78,"Accuracy":"50%","RTOP_Zone":7,"Street_Name":"North Ave. ","Nearest_Location":"Marietta St. NW (W) & Techwood Dr. (E)  "},"geometry":{"type":"Point","coordinates":[-84.39896017313004,33.7712369947876]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":78,"County":"Fulton","Accuracy":"50%","RTOP_Zone":5,"Street_Name":"Ponce De Leon Ave.","Nearest_Location":"Somerset Terrace NE (W) & Bonaventure Ave. NE (E)"},"geometry":{"type":"Point","coordinates":[-84.36210997402668,33.77381885909043]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":120,"County":"Cobb","Accuracy":"100%","RTOP_Zone":2,"Street_Name":"S. Marietta Pkwy SE","Nearest_Location":"Fairground St. (W) & Aviation Rd. SE (E) "},"geometry":{"type":"Point","coordinates":[-84.53282922506332,33.942912693536044]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":280,"County":"Cobb","Accuracy":"50%","RTOP_Zone":2,"Street_Name":"S. Cobb Pkwy","Nearest_Location":"Plaza Dr. (N) & Pinehill Dr. (s)"},"geometry":{"type":"Point","coordinates":[-84.5338726043701,33.8821556908565]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":13,"County":"DeKalb","Accuracy":"100%","RTOP_Zone":1,"Street_Name":"Buford Hwy","Nearest_Location":"Briarwood Rd. (N) & N. Cliff Valley Way (S) "},"geometry":{"type":"Point","coordinates":[-84.32867087423801,33.84299630417748]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":13,"County":"DeKalb","Accuracy":"100%","RTOP_Zone":1,"Street_Name":"Buford Hwy","Nearest_Location":"Lenox Overlook Rd. (N) & Briarwood Rd. (S) "},"geometry":{"type":"Point","coordinates":[-84.32564534246922,33.845713006618965]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Fulton","Accuracy":"100%","RTOP_Zone":"","Street_Name":"Decatur St. SE","Nearest_Location":"Hilliard St. SE (W) & William Holmes Borders Senior Dr. SE (E) "},"geometry":{"type":"Point","coordinates":[-84.37537014484406,33.75039640635459]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Fulton","Accuracy":"50%","RTOP_Zone":"","Street_Name":"White St. SE","Nearest_Location":"Cascade Ave. SW (N) & Hopkins St. SW"},"geometry":{"type":"Point","coordinates":[-84.43123787641525,33.73810285590992]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":140,"County":"Fulton","Accuracy":"50%","RTOP_Zone":"","Street_Name":"Houze Rd. Roundabout","Nearest_Location":"@ Hembree Rd."},"geometry":{"type":"Point","coordinates":[-84.34644855558871,34.06120362893089]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Gwinnett","Accuracy":"25%","RTOP_Zone":"","Street_Name":"Winters Chapel Rd.","Nearest_Location":"Peeler Rd. (N) & Peachtree Industrial (s)"},"geometry":{"type":"Point","coordinates":[-84.27106037735939,33.941901358961786]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Fulton","Accuracy":"100%","RTOP_Zone":"","Street_Name":"Peachtree Rd. ","Nearest_Location":"@ Malone Dr. "},"geometry":{"type":"Point","coordinates":[-84.3067055940628,33.88814427703094]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Fulton","Accuracy":"100%","RTOP_Zone":"","Street_Name":"Peachtree Rd. ","Nearest_Location":"Miller Dr. (W) & Pierce Dr. (E) "},"geometry":{"type":"Point","coordinates":[-84.30423460900784,33.889385584084636]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Gwinnett","Street_Name":"Norcross Tucker Rd. ","Nearest_Location":"Near Sparrows Ln NW.","Accuracy":"25%"},"geometry":{"type":"Point","coordinates":[-84.20843213796616,33.89798183546509]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"r","Infra":"RRFB","SR":"","County":"Fulton","Accuracy":"90%","RTOP_Zone":"","Street_Name":"10th St.","Nearest_Location":"West Peachtree"},"geometry":{"type":"Point","coordinates":[-84.3864121288061,33.78147508961176]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"t","Infra":"Traffic Signal","SR":140,"County":"Gwinnett","Accuracy":"100%","RTOP_Zone":6,"Street_Name":"Jimmy Carter Blvd.","Nearest_Location":"Dawson Rd./Live Oak "},"geometry":{"type":"Point","coordinates":[-84.20615762472153,33.90735412384846]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"t","RTOP_Zone":6,"Street_Name":"Jimmy Carter Blvd.","Nearest_Location":"Hayes Dr.","Infra":"Traffic Signal","SR":140,"County":"Gwinnett","Accuracy":"100%"},"geometry":{"type":"Point","coordinates":[-84.20577675104141,33.904602651485874]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"t","Infra":"Traffic Signal","SR":140,"County":"Gwinnett","Accuracy":"100%","RTOP_Zone":6,"Street_Name":"Jimmy Carter Blvd.","Nearest_Location":"Norcross Tucker Rd./Singleton Rd."},"geometry":{"type":"Point","coordinates":[-84.20534491539001,33.902124914702696]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"t","Infra":"Traffic Signal","SR":"41/19","County":"Fulton","Accuracy":"100%","RTOP_Zone":4,"Street_Name":"Northside Dr.","Nearest_Location":"Mitchell"},"geometry":{"type":"Point","coordinates":[-84.40282054245472,33.754643092851076]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","Infra":"PHB","SR":"","County":"Fulton","Accuracy":"100%","RTOP_Zone":"","Street_Name":"10th St.","Nearest_Location":"Argonne Ave. NE & Taft Ave."},"geometry":{"type":"Point","coordinates":[-84.37648594379425,33.78179472298133]}},{"type":"Feature","properties":{"marker-color":"#ff0000","marker-size":"medium","marker-symbol":"p","RTOP_Zone":"","Street_Name":"Decatur St.","Nearest_Location":"Collins St. & Piedmont Ave.","Accuracy":"100%","County":"Fulton","Infra":"PHB"},"geometry":{"type":"Point","coordinates":[-84.38577175140381,33.7517211141198]}}]}
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.27214131,33.70834303 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":1,
+    "Infra":"PHB",
+    "SR":"155",
+    "County":"DeKalb",
+    "Accuracy":"100%",
+    "RTOP_Zone":5,
+    "Street_Name":"Flat Shoals",
+    "Nearest_Location":"Rainbow Dr. (N) & Flat Shoals Rd. (S) ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/oYGoAYJyijA2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.28403154,33.73278856 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":2,
+    "Infra":"PHB",
+    "SR":"155",
+    "County":"DeKalb",
+    "Accuracy":"100%",
+    "RTOP_Zone":5,
+    "Street_Name":"Candler_0",
+    "Nearest_Location":"Melville Ave. (N) & McAfee Rd. (S)",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/NHrT5kJsdgk",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.29143813,33.74571377 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":3,
+    "Infra":"PHB",
+    "SR":"155",
+    "County":"DeKalb",
+    "Accuracy":"100%",
+    "RTOP_Zone":5,
+    "Street_Name":"Candler_1",
+    "Nearest_Location":"Memorial Dr. SE (N) & Alston Dr. SE (S)",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/FG1KTY8EZCy",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.30662982,33.78725032 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":4,
+    "Infra":"PHB",
+    "SR":"23",
+    "County":"DeKalb",
+    "Accuracy":"50%",
+    "RTOP_Zone":5,
+    "Street_Name":"Clairmont",
+    "Nearest_Location":"Clairmont Run (N) & Maediris Dr. (S)",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/e9X1iqGFcmo",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.393426,33.771331 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":5,
+    "Infra":"PHB",
+    "SR":"78",
+    "County":"Fulton",
+    "Accuracy":"50%",
+    "RTOP_Zone":7,
+    "Street_Name":"North Ave. ",
+    "Nearest_Location":"Marietta St. NW (W) & Techwood Dr. (E)  ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/KAHQUKfsVJN2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.36210997,33.77381886 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":6,
+    "Infra":"PHB",
+    "SR":"78",
+    "County":"Fulton",
+    "Accuracy":"50%",
+    "RTOP_Zone":5,
+    "Street_Name":"Ponce De Leon Ave.",
+    "Nearest_Location":"Somerset Terrace NE (W) & Bonaventure Ave. NE (E)",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/kYkkQLMfkYx",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.53282923,33.94291269 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":7,
+    "Infra":"PHB",
+    "SR":"120",
+    "County":"Cobb",
+    "Accuracy":"100%",
+    "RTOP_Zone":2,
+    "Street_Name":"S. Marietta Pkwy SE",
+    "Nearest_Location":"Fairground St. (W) & Aviation Rd. SE (E) ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/vSaJ9rSV8wo",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5338726,33.88215569 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":8,
+    "Infra":"PHB",
+    "SR":"280",
+    "County":"Cobb",
+    "Accuracy":"50%",
+    "RTOP_Zone":2,
+    "Street_Name":"S. Cobb Pkwy",
+    "Nearest_Location":"Plaza Dr. (N) & Pinehill Dr. (s)",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/DwJuHtndJSP2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.32867087,33.8429963 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":9,
+    "Infra":"PHB",
+    "SR":"13",
+    "County":"DeKalb",
+    "Accuracy":"100%",
+    "RTOP_Zone":1,
+    "Street_Name":"Buford Hwy",
+    "Nearest_Location":"Briarwood Rd. (N) & N. Cliff Valley Way (S) ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/QSR5WqKKajG2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.32564534,33.84571301 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":10,
+    "Infra":"PHB",
+    "SR":"13",
+    "County":"DeKalb",
+    "Accuracy":"100%",
+    "RTOP_Zone":1,
+    "Street_Name":"Buford Hwy",
+    "Nearest_Location":"Lenox Overlook Rd. (N) & Briarwood Rd. (S) ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/XHGBUg4MmRB2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.37537014,33.75039641 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":11,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":null,
+    "Street_Name":"Decatur St. SE",
+    "Nearest_Location":"Hilliard St. SE (W) & William Holmes Borders Senior Dr. SE (E) ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/43oBuJE2tH82",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.43123788,33.73810286 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":12,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":null,
+    "Street_Name":"White St. SE",
+    "Nearest_Location":"Cascade Ave. SW (N) & Hopkins St. SW",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/emwTWLaPXNp",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.34644856,34.06120363 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":13,
+    "Infra":"RRFB",
+    "SR":"140",
+    "County":"Fulton",
+    "Accuracy":"50%",
+    "RTOP_Zone":null,
+    "Street_Name":"Houze Rd. Roundabout",
+    "Nearest_Location":"@ Hembree Rd.",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/CDySwPRA1MF2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.27106038,33.94190136 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":14,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Gwinnett",
+    "Accuracy":"25%",
+    "RTOP_Zone":null,
+    "Street_Name":"Winters Chapel Rd.",
+    "Nearest_Location":"Peeler Rd. (N) & Peachtree Industrial (s)",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/1XaBHZVa2FL2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.30670559,33.88814428 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":15,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":null,
+    "Street_Name":"Peachtree Rd. ",
+    "Nearest_Location":"@ Malone Dr. ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/JnXLCwQGg9z",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.30423461,33.88938558 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":16,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":null,
+    "Street_Name":"Peachtree Rd. ",
+    "Nearest_Location":"Miller Dr. (W) & Pierce Dr. (E) ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/grmmF79Mc4Q2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.20843214,33.89798184 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":17,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Gwinnett",
+    "Accuracy":"25%",
+    "RTOP_Zone":null,
+    "Street_Name":"Norcross Tucker Rd. ",
+    "Nearest_Location":"Near Sparrows Ln NW.",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/w2LRk7HnP3x",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.38641213,33.78147509 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":18,
+    "Infra":"RRFB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"90%",
+    "RTOP_Zone":null,
+    "Street_Name":"10th St.",
+    "Nearest_Location":"West Peachtree",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/Z1nKSSm8vaL2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.20615762,33.90735412 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":19,
+    "Infra":"Traffic Signal",
+    "SR":"140",
+    "County":"Gwinnett",
+    "Accuracy":"100%",
+    "RTOP_Zone":6,
+    "Street_Name":"Jimmy Carter Blvd.",
+    "Nearest_Location":"Dawson Rd./Live Oak ",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/xNWxBuAyeKv",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.20577675,33.90460265 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":20,
+    "Infra":"Traffic Signal",
+    "SR":"140",
+    "County":"Gwinnett",
+    "Accuracy":"100%",
+    "RTOP_Zone":6,
+    "Street_Name":"Jimmy Carter Blvd.",
+    "Nearest_Location":"Hayes Dr.",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/8XybwEgCAWu",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.20534492,33.90212491 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":21,
+    "Infra":"Traffic Signal",
+    "SR":"140",
+    "County":"Gwinnett",
+    "Accuracy":"100%",
+    "RTOP_Zone":6,
+    "Street_Name":"Jimmy Carter Blvd.",
+    "Nearest_Location":"Norcross Tucker Rd./Singleton Rd.",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/uB76siu3MJz",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.40282054,33.75464309 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":22,
+    "Infra":"Traffic Signal",
+    "SR":"41/19",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":4,
+    "Street_Name":"Northside Dr.",
+    "Nearest_Location":"Mitchell",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/drkw9UKX3XN2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.37648594,33.78179472 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":23,
+    "Infra":"PHB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":null,
+    "Street_Name":"10th St.",
+    "Nearest_Location":"Argonne Ave. NE & Taft Ave.",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/HjFYeZZJpTT2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.38577175,33.75172111 ]
+    },
+    "properties": {
+    "marker-color":"#ff0000",
+    "marker-size":"medium",
+    "marker-symbol":24,
+    "Infra":"PHB",
+    "SR":"",
+    "County":"Fulton",
+    "Accuracy":"100%",
+    "RTOP_Zone":null,
+    "Street_Name":"Decatur St.",
+    "Nearest_Location":"Collins St. & Piedmont Ave.",
+    "FIELD11":"",
+    "Link":"https://goo.gl/maps/SiGd9oqWg2F2",
+    "Aerial Image":"",
+    "Streetview Image":""
+    }
+  }
+]
+}
