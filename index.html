@@ -33,7 +33,8 @@ map.on('load', function () {
 
     map.addSource('sites', {
         type: 'geojson',
-        data: 'https://rawgit.com/lslangley/24_locations/gh-pages/24_collection_sites.geojson'
+        // data: 'https://rawgit.com/lslangley/24_locations/gh-pages/24_collection_sites.geojson'
+        data: '24_collection_sites.geojson'
     });
 
     map.addLayer({
@@ -56,7 +57,7 @@ map.on('load', function () {
             var feature = features[0];
             var popup = new mapboxgl.Popup()
                 .setLngLat(map.unproject(e.point))
-                .setHTML('<h3>'+ feature.properties.Street_Name +'</h3>' +
+                .setHTML('<h3>'+ feature.properties.number + ' - ' + feature.properties.Street_Name +'</h3>' +
                     '<ul>' +
                     '<li>Nearest Location: <b>' + feature.properties.Nearest_Location + '</b></li>' +
                     '<li>Infrastructure Type: <b>' + feature.properties.Infra + '</b></li>' +
