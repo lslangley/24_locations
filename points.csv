@@ -23,3 +23,5 @@ marker-color,marker-size,marker-symbol,Infra,SR,County,Accuracy,RTOP_Zone,Street
 #ff0000,medium,22,Traffic Signal,41/19,Fulton,100%,4,Northside Dr.,Mitchell,,33.75464309,-84.40282054,https://goo.gl/maps/drkw9UKX3XN2,,
 #ff0000,medium,23,PHB,,Fulton,100%,,10th St.,Argonne Ave. NE & Taft Ave.,,33.78179472,-84.37648594,https://goo.gl/maps/HjFYeZZJpTT2,,
 #ff0000,medium,24,PHB,,Fulton,100%,,Decatur St.,Collins St. & Piedmont Ave.,,33.75172111,-84.38577175,https://goo.gl/maps/SiGd9oqWg2F2,,
+#ff0000,medium,25,PHB,9,Fulton,,,S Main St,S. Broad St,,34.0746724,-84.2946167,https://goo.gl/maps/a6GNCZFZ2jD2,,
+#ff0000,medium,26,PHB,,Fulton,,,Westside Pkwy,Thompson St,,34.071045,-84.282081,https://goo.gl/maps/2AFPzokUfPn,,
