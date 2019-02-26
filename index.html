@@ -9,6 +9,30 @@
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
+        .legend {
+            background-color: #fff;
+            border-radius: 3px;
+            /* bottom: 10px; */
+            top: 200px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.10);
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            padding: 15px;
+            position: absolute;
+            right: 10px;
+            z-index: 1;
+            }
+
+            .legend h4 {
+            margin: 0 0 10px;
+            }
+
+            .legend div span {
+            border-radius: 50%;
+            display: inline-block;
+            height: 10px;
+            margin-right: 5px;
+            width: 10px;
+            }
     </style>
 </head>
 <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
@@ -16,6 +40,13 @@
 <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' type='text/css' />
 
 <div id='map'></div>
+<div id='legend' class='legend'>
+  <h4>Infrastructure Type</h4>
+  <div><span style='background-color: #1EB6E0'></span>PHB</div>
+<div><span style='background-color: #1ee0a9'></span>RRFB</div>
+<div><span style='background-color: #e0a91e'></span>Traffic Signal</div>
+</div>
+
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibGNhY2VkYSIsImEiOiIzNmM4MGRlN2I4NDhiY2UxZjA4MmJjZjE5OWEzYjUzNSJ9.Wc5KTJpWxmpxVMZfcuEQNg';
 var map = new mapboxgl.Map({
@@ -43,8 +74,17 @@ map.on('load', function () {
         'source': 'sites',
         'paint': {
             'circle-radius': 10,
-            'circle-color': '#1EB6E0',
-            'circle-opacity': 0.8
+            // 'circle-color': '#1EB6E0',
+            'circle-opacity': 0.8,
+            // https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-match
+            'circle-color': [
+                'match',
+                ['get', 'Infra'],
+                'PHB', '#1EB6E0',
+                'RRFB', '#1ee0a9',
+                'Traffic Signal', '#e0a91e',
+                /* other */ '#ccc'
+              ]
         }
     });
      map.on('click', function(e) {
